@@ -1,0 +1,18 @@
+{
+  "name": "fido2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "fido2-lib": "^3.5.3",
+    "uuid": "^10.0.0"
+  }
+}
